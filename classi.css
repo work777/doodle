@@ -1,0 +1,74 @@
+.d {
+  position: absolute;
+  left: 750px;
+  top: 200px;
+font-family: serif;
+font-size: 100px;
+font-weight: bold;
+color: #7270ff;
+}
+
+.o {
+  position: absolute;
+  left: 822px;
+  top: 200px;
+font-family: serif;
+font-size: 100px;
+font-weight: bold;
+color: #a80530;
+}
+
+.oo {
+  position: absolute;
+  left: 871px;
+  top: 200px;
+font-family: serif;
+font-size: 100px;
+font-weight: bold;
+color: #ffe630;
+}
+
+.dd {
+  position: absolute;
+  left: 920px;
+  top: 200px;
+font-family: serif;
+font-size: 100px;
+font-weight: bold;
+color: #7270ff;
+}
+
+.l {
+  position: absolute;
+  left: 978px;
+  top: 200px;
+font-family: serif;
+font-size: 100px;
+font-weight: bold;
+color: #61f207;
+}
+
+.e {
+  position: absolute;
+  left: 1008px;
+  top: 200px;
+font-family: serif;
+font-size: 100px;
+font-weight: bold;
+color: #a80530;
+}
+
+.oe {
+  position: absolute;
+  left: 985px;
+  top: 293px;
+font-family: serif;
+font-size: 15px;
+color: #7270ff;
+}
+
+.eingabe {
+  position: absolute;
+    left: 800px;
+    top: 350px;
+  }

@@ -1,0 +1,20 @@
+<html>
+ <head>
+  <title>CSS Grundlagen</title>
+  <meta charset="utf-8">
+  <style>
+  .red {
+    color: red;
+  }
+.blue {
+  color:blue;
+}
+  </style>
+  </head>
+  <body>
+     <h1>CSS Grundlagen</h1>
+     <p id="abs1">Absatz 1</p>
+     <p id="abs2" class="red">Absatz 2</p>
+     <p id="abs3" class="blue">Absatz 3</p>
+    </body>
+  </html>

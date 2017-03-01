@@ -1,0 +1,15 @@
+<html>
+ <head>
+  <title>CSS Grundlagen</title>
+  <meta charset="utf-8">
+  <link rel="stylesheet"
+   href="style.css">
+ </link>
+ </head>
+  <body>
+     <h1>CSS Grundlagen</h1>
+     <p id="abs1">Absatz 1</p>
+     <p class="red">Absatz 2</p>
+     <p class="blue">Absatz 3</p>
+    </body>
+  </html>
